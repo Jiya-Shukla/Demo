@@ -1,4 +1,4 @@
 # Demo
 This is my first Repository.
 <br>
-Author - Jiya Shukla
+Author - JIYA SHUKLA
